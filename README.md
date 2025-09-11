@@ -14,7 +14,7 @@ EQUIPMENTS REQUIRED
 
 THEORY:
 
-Modulation can be defined as the process by which the characteristics of carrier wave are varied in accordance with the modulating wave (signal). Modulation is performed in a transmitter by a circuit called a modulator.
+Modulation can be defined as the process by which the characteristics of carrier wave are varied in accordance with the modulating wave (signal). Modulation is performed in a transmitter by a circuit called a modulators.
 Need for modulation is as follows:
 •	Avoid mixing of signals
 •	Reduction in antenna height
