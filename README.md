@@ -75,7 +75,7 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 •	Verify the generated waveform using Tabulation and Model Waveform
 
 Program
-'''
+```
 clc;
 clear;
 close;
@@ -110,7 +110,7 @@ xlabel("Time(s");
 ylabel("Amplitude");
 title("Demodulated Signal");
 xgrid();
-'''
+```
 Output Waveform
 
 <img width="1592" height="826" alt="image" src="https://github.com/user-attachments/assets/7e4668b4-f177-4108-9311-212e6b7f3194" />
