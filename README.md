@@ -128,5 +128,5 @@ MODEL GRAPH
  <img width="919" height="1290" alt="image" src="https://github.com/user-attachments/assets/55326c5b-7dd5-4873-aaf6-d219bb7c4420" />
 
 RESULT:
-![WhatsApp Image 2025-11-22 at 7 08 51 PM](https://github.com/user-attachments/assets/d3e72335-4eff-4d6f-ab8e-d5f315f78392)
+<![WhatsApp Image 2025-11-22 at 7 08 51 PM](https://github.com/user-attachments/assets/d3e72335-4eff-4d6f-ab8e-d5f315f78392)/>
 
